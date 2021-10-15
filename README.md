@@ -22,6 +22,7 @@ I amnt' totally good with them but I Know them.
 - MongoDB
 - Git
 - Bash
+- Docker
 - Cloud Servers (Linode, GCP, DO, AWS)
 - VSCode
 - Android Studio (I am Learning)
@@ -35,3 +36,4 @@ I amnt' totally good with them but I Know them.
 
 ### About Me
 ![git stats](https://github-readme-stats.vercel.app/api?username=VegetaxD&show_icons=True&count_private=true&theme=tokyonight)
+![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=VegetaxD&show_icons=true&theme=tokyonight&layout=compact)
