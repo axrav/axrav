@@ -28,7 +28,7 @@ I amnt' totally good with them but I Know them.
 - NVim
 
 ## Description
-**I like to play with De/Wm's and Telegram Bots, I usually explore them whenever I am free,I like playing games too.I am currently pursuing BTech in VIT,Vellore**
+**I like to play with De/Wm's and Telegram Bots,I usually explore them whenever I am free,I am a Cricket Lover,I like playing games too.I am currently pursuing BTech in VIT,Vellore**
 
 ## Contact Me
 <p><a href="https://t.me/VegetaxD"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120""/></a></p>
