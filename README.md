@@ -27,6 +27,8 @@ I amnt' totally good with them but I Know them.
 - VSCode
 - Android Studio (I am Learning)
 - NVim
+- nginX
+- Bless
 
 ## Description
 **I like to play with De/Wm's and Telegram Bots,I usually explore them whenever I am free,I am a Cricket Lover,I like playing games too.I am currently pursuing BTech in VIT,Vellore**
