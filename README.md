@@ -1,5 +1,5 @@
 # That we shoot across the Sky :)
- **Hey I am Aarav, A 17yo Student 🖥 from Haryana,India**
+ **Hey I am Aarav, A 18yo Student 🖥 from Haryana,India**
 
 ## My Interests
 - Linux
