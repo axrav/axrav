@@ -14,6 +14,7 @@ I amnt' totally good with them but I Know them.
 - C++
 - Java
 - Kotlin
+- JavaScript
 - Go
 - HTML
 
@@ -23,10 +24,11 @@ I amnt' totally good with them but I Know them.
 - Git
 - Bash
 - FastApi
+- Nodejs 
 - Docker
 - Cloud Servers (Linode, GCP, DO, AWS)
 - VSCode
-- Android Studio (I am Learning)
+- Android Studio
 - NVim
 - nginX
 - Bless
