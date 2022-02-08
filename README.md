@@ -12,10 +12,9 @@
 I amnt' totally good with them but I Know them.
 - Python
 - C++
-- Java
 - Kotlin
 - JavaScript
-- Go
+- TypeScript
 - HTML
 
 ## Tools
