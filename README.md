@@ -14,8 +14,6 @@ I amnt' totally good with them but I Know them.
 - C++
 - Kotlin
 - JavaScript
-- TypeScript
-- HTML
 
 ## Tools
 - Arch Linux BTW
