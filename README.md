@@ -35,6 +35,6 @@ I amnt' totally good with them but I Know them.
 ## Contact Me
 <p><a href="https://t.me/VegetaxD"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120""/></a></p>
 
-### About Me
+### Stats
 ![git stats](https://github-readme-stats.vercel.app/api?username=VegetaxD&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=tokyonight)
 ![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=VegetaxD&show_icons=true&theme=tokyonight&layout=compact)
