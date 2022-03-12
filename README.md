@@ -13,6 +13,7 @@ I amnt' totally good with them but I Know them.
 - C++
 - Kotlin
 - JavaScript
+- GOLang
 
 ## Tools
 - Arch Linux BTW
