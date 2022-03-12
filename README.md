@@ -38,3 +38,4 @@ I amnt' totally good with them but I Know them.
 ### Stats
 ![git stats](https://github-readme-stats.vercel.app/api?username=VegetaxD&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=tokyonight)
 ![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=VegetaxD&show_icons=true&theme=tokyonight&layout=compact)
+![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31txneuqwbtl22rvopregisxsgqa&count=3)
