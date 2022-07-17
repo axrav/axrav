@@ -1,11 +1,11 @@
- **Hey I am Aarav,18yo Student 🖥 from Haryana,India**
+ **Hey I am Aarav,18yo Student from Haryana,India**
 
 ## My Interests
 - Linux
 - Scripting
 - Ricing my OS
-- Programming (little bit xD)
-- Anime (not much but yes)
+- Backend 
+- Android 
 
 ## Languages
 I amnt' totally good with them but I Know them.
@@ -22,16 +22,17 @@ I amnt' totally good with them but I Know them.
 - Bash
 - FastApi
 - Nodejs 
+- Typescript
+- Redis
 - Docker
-- Cloud Servers (Linode, GCP, DO, AWS)
+- Cloud Servers
 - VSCode
 - Android Studio
 - NVim
 - nginX
-- Bless
 
 ## Description
-**I like to play with De/Wm's and Telegram Bots,I usually explore them whenever I am free,I am a Cricket Lover,I like playing games too.I am currently pursuing BTech in VIT,Vellore**
+**I like to play with De/Wm's and Telegram Bots,I know a bit of android app dev and web dev,I usually explore them whenever I am free,I am a Cricket Lover,I like playing games too.I am currently pursuing BTech in VIT,Vellore**
 
 ## Contact Me
 <p><a href="https://t.me/VegetaxD"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120""/></a></p>
