@@ -19,6 +19,7 @@ I amnt' totally good with them but I Know them.
 - Arch Linux BTW
 - MongoDB
 - Git
+- GoFiber
 - Bash
 - FastApi
 - Nodejs 
