@@ -28,6 +28,8 @@ I amnt' totally good with them but I Know them.
 - Docker
 - Cloud Servers
 - VSCode
+- SQL
+- Postgres
 - Android Studio
 - NVim
 - nginX
