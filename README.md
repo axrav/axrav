@@ -43,3 +43,4 @@ I amnt' totally good with them but I Know them.
 ### Me?
 ![git stats](https://github-readme-stats.vercel.app/api?username=VegetaxD&show_icons=true&count_private=true&hide_border=true&theme=tokyonight) ![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=VegetaxD&show_icons=True&theme=tokyonight&layout=compact)
 <a href="https://open.spotify.com/user/31txneuqwbtl22rvopregisxsgqa"><img src="https://spotify-vegetaxd.vercel.app/api/spotify"/></a>
+![streaks](https://github-readme-streak-stats.herokuapp.com/?user=VegetaxD&theme=dark)
