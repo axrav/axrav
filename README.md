@@ -40,7 +40,7 @@ I amnt' totally good with them but I Know them.
 **I like to play with De/Wm's and Telegram Bots,I know a bit of android app dev and web dev,I usually explore them whenever I am free,I am a Cricket Lover,I like playing games too.I am currently pursuing BTech in VIT,Vellore**
 
 ## Contact Me
-<a href="https://t.me/VegetaxD"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120""/></a>
+<a href="https://t.me/VegetaxD"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120"/></a>
  <a href="https://www.linkedin.com/in/aarav-arora-823b70217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120"/></a>
 
 ### Me?
