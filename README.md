@@ -36,8 +36,8 @@ I amnt' totally good with them but I Know them.
 - NVim
 - NginX
 
-## Description
-**I like to play with De/Wm's and Telegram Bots,I know a bit of android app dev and web dev,I usually explore them whenever I am free,I am a Cricket Lover,I like playing games too.I am currently pursuing BTech in VIT,Vellore**
+## About me
+**I am Aarav, A computer science student pursuing BTech in Vellore Institute of Technology,I am more attracted towards server sides and know a bit of app dev,I have knowledge about SQL as well as NoSQL databases.I am a tech enthusiast and a Linux user as well.Connect with me to know more about me.
 
 ## Contact Me
 <a href="https://t.me/VegetaxD"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120"/></a>
