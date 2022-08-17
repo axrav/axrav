@@ -41,7 +41,7 @@ I amnt' totally good with them but I Know them.
 
 ## Contact Me
 <p><a href="https://t.me/VegetaxD"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120""/></a></p>
- <a href="https://www.linkedin.com/in/aarav-arora-823b70217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/aarav-arora-823b70217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120"/></a>
 
 ### Me?
 ![git stats](https://github-readme-stats.vercel.app/api?username=VegetaxD&show_icons=true&count_private=true&hide_border=true&theme=tokyonight) ![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=VegetaxD&show_icons=True&theme=tokyonight&layout=compact)
