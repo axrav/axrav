@@ -44,6 +44,6 @@ I amnt' totally good with them but I Know them.
  <a href="https://www.linkedin.com/in/aarav-arora-823b70217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120"/></a>
 
 ### Me?
-![git stats](https://github-readme-stats.vercel.app/api?username=VegetaxD&show_icons=true&count_private=true&hide_border=true&theme=tokyonight) ![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=VegetaxD&show_icons=True&theme=tokyonight&layout=compact)
+![git stats](https://github-readme-stats.vercel.app/api?username=Axrav&show_icons=true&count_private=true&hide_border=true&theme=tokyonight) ![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=VegetaxD&show_icons=True&theme=tokyonight&layout=compact)
 <a href="https://open.spotify.com/user/31txneuqwbtl22rvopregisxsgqa"><img src="https://spotify-vegetaxd.vercel.app/api/spotify"/></a>
-![streaks](https://github-readme-streak-stats.herokuapp.com/?user=VegetaxD&theme=dark)
+![streaks](https://github-readme-streak-stats.herokuapp.com/?user=Axrav&theme=dark)
