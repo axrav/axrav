@@ -14,6 +14,7 @@ I amnt' totally good with them but I Know them.
 - Kotlin
 - JavaScript
 - Go
+- Rust
 - HTML5
 - CSS
 
