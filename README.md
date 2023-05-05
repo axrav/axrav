@@ -1,4 +1,4 @@
- **Hey I am Aarav,19yo Student from Delhi,India**
+ **19 y.o Student from Haryana,India**
 
 ## My Interests
 - Linux
