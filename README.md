@@ -1,4 +1,4 @@
- **19 y.o Student from Haryana,India**
+### 19 y.o student from Haryana,India
 
 ## My Interests
 - Linux
