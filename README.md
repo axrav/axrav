@@ -1,4 +1,4 @@
-### 19 y.o student from Haryana,India
+**Undergrad Software Developer**
 
 ## My Interests
 - Linux
@@ -38,7 +38,7 @@ I amnt' totally good with them but I Know them.
 - NginX
 
 ## About me
-**I am Aarav,A lazy telegram user :P,A computer science student pursuing BTech in Vellore Institute of Technology,I am more attracted towards server sides and know a bit of app dev,I have knowledge about SQL as well as NoSQL databases.I am a tech enthusiast and a Linux user as well.Connect with me to know more about me.**
+**I am Aarav,A lazy telegram user :P,A computer science student pursuing B.Tech in Vellore Institute of Technology,I am more attracted towards server sides and know a bit of app dev,I have knowledge about SQL as well as NoSQL databases.I am a tech enthusiast and a Linux user as well.Connect with me to know more about me.**
 
 ## Connect with Me
 <a href="https://t.me/VegetaxD"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120"/></a>
