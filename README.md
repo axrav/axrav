@@ -1,4 +1,4 @@
-**Undergrad Software Developer**
+**Undergraduate Software Developer**
 
 ## My Interests
 - Linux
