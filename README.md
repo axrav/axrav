@@ -1,47 +1,51 @@
-**Undergraduate Software Developer**
+# Aarav Arora
+**Software Developer | Open Source Contributor**
 
-## My Interests
-- Linux
-- Scripting
-- Ricing my OS
-- Backend 
-- Android 
+*Golang enthusiast building scalable backend systems and contributing to the open source community*
 
-## Languages
-I amnt' totally good with them but I Know them.
+## 💻 Tech Stack
+
+### Languages
+- **Go**
+- JavaScript/TypeScript
 - Python
+- Rust
 - C++
 - Kotlin
-- JavaScript
-- Go
-- Rust
-- HTML5
-- CSS
 
-## Tools
-- Arch Linux BTW
-- MongoDB
-- Git
-- GoFiber
-- Bash
-- FastApi
-- Nodejs 
-- Typescript
-- Redis
-- Docker
-- Cloud Servers
-- VSCode
-- SQL
-- Postgres
-- Android Studio
-- NVim
-- NginX
+### Backend & Infrastructure
+- GoFiber, Gin, Echo
+- Node.js, FastAPI
+- Docker, Kubernetes
+- Redis, MongoDB, PostgreSQL
+- Nginx, Apache
+- gRPC, REST APIs
+- Microservices Architecture
 
-## About me
-**I am Aarav,A lazy telegram user :P,A computer science student pursuing B.Tech in Vellore Institute of Technology,I am more attracted towards server sides and know a bit of app dev,I have knowledge about SQL as well as NoSQL databases.I am a tech enthusiast and a Linux user as well.Connect with me to know more about me.**
+### Tools & Technologies
+- Git/GitHub
+- Linux (Arch BTW)
+- Neovim, VSCode
+- CI/CD Pipelines
+- Cloud Platforms (AWS, GCP)
+- Bash/Shell Scripting
+
+## 🌟 Open Source Contributions
+Actively contributing to the Go ecosystem and various open source projects. Always looking for interesting projects to collaborate on!
+
+## 🎯 What I Do
+- **Backend Development**: Building high-performance APIs and microservices
+- **System Architecture**: Designing scalable distributed systems
+- **Open Source**: Contributing to projects and maintaining repositories
+- **DevOps**: Container orchestration and deployment automation
+- **Database Design**: Optimizing data storage and retrieval systems
+
+## 🎓 Background
+Software Developer with a B.Tech in Computer Science from Vellore Institute of Technology. Specialized in backend systems, distributed architecture, and open source development. Passionate about Go programming and building tools that solve real-world problems.
 
 ## Connect with Me
-<a href="https://t.me/VegetaxD"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120"/></a>
- <a href="https://www.linkedin.com/in/aarav-arora-823b70217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120"/></a>
+<a href="https://www.linkedin.com/in/aarav-arora-823b70217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://x.com/vohaarav"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a> 
+<a href="https://t.me/VegetaxD"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 ![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=Axrav&show_icons=True&theme=tokyonight&layout=compact)
