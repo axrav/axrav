@@ -48,4 +48,3 @@ Software Developer with a B.Tech in Computer Science from Vellore Institute of T
 <a href="https://x.com/vohaarav"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a> 
 <a href="https://t.me/VegetaxD"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=Axrav&show_icons=True&theme=tokyonight&layout=compact)
